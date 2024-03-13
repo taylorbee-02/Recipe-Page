@@ -1,0 +1,42 @@
+#root {
+  background-color: white;
+  max-width: 1440px;
+  margin: auto;
+  padding: 3rem;
+  border-radius: 2%;
+  width: 800px;
+  font-family: 'CustomFont';
+}
+img{
+  width: 800px;
+  border-radius: 2%;
+  align-items: center;
+}
+p{
+  text-decoration: none;
+}
+dock{
+  height: 80px;
+  width: 80px;
+  background-color: violet;
+  opacity: 0.5;
+}
+h1, h2, h4{
+  font-family: 'Styler';
+  color: burlywood;
+}
+h3{
+  font-family: 'Styler';
+  color: plum;
+}
+
+hr {
+border: none;
+height: 1px;
+background-color: black; 
+margin: 20px 0;
+}
+ul strong{
+  padding-left: 40%;
+  color: burlywood;
+}

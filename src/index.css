@@ -1,0 +1,16 @@
+@font-face {
+    font-family: 'CustomFont';
+    src: url('../public/fonts/outfit/Outfit-VariableFont_wght.ttf') format('truetype');
+    /* Add more src declarations for different font file formats if needed */
+  }
+@font-face {
+    font-family: 'Styler';
+    src: url('../public/fonts/young-serif/YoungSerif-Regular.ttf') format('truetype');
+    /* Add more src declarations for different font file formats if needed */
+  }
+  
+body {
+    font-family: 'CustomFont';
+    background-color: rgb(249, 226, 196);
+}
+  
